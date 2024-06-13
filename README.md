@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdeljalil-el-hidaoui-37359525a) 
 
