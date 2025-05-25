@@ -65,13 +65,5 @@ def code():
         📚 learn()
         🤝 collaborate()
         🌱 grow()
-📜 Favorite Quote
-"The computer was born to solve problems that did not exist before." - Bill Gates
-
 <div align="center">
-Visitor Count
-
-⭐ From Abel-Hid
-
-</div> ```
 
