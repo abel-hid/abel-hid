@@ -65,5 +65,4 @@ def code():
         📚 learn()
         🤝 collaborate()
         🌱 grow()
-<div align="center">
 
