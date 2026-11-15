@@ -76,8 +76,5 @@ Strong foundation in systems programming, networking and DevOps, with a focus on
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-hid&layout=compact&hide=html,css,makefile,shell&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=8b949e" alt="Most used languages" />
 
 </div>
